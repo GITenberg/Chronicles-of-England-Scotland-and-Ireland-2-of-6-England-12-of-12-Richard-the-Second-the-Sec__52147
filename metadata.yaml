@@ -1,0 +1,32 @@
+_repo: Chronicles-of-England-Scotland-and-Ireland-2-of-6-England-12-of-12-Richard-the-Second-the-Sec__52147
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holinshed, Raphael
+    aliases:
+    - Holinshed, Raphaell
+    - Holinshed, Ralph
+    - Holinshead, Raphael
+    - Holynshed, Raphael
+    - Holingshed, Raphael
+    gutenberg_agent_id: '5166'
+    url: http://www.gutenberg.org/2009/agents/5166
+    wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
+description: ''
+gutenberg_issued: '2016-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603'
+- !lcsh 'Great Britain -- History -- Richard II, 1377-1399'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- To 1485'
+- GITenberg
+title: "Chronicles of England, Scotland and Ireland (2 of 6): England (12 of 12)\r\
+  \nRichard the Second, the Second Sonne to Edward Prince of Wales"
+url: http://www.gutenberg.org/ebooks/52147
